@@ -84,7 +84,7 @@
   <img src='https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=default&font=Gabrielle'>
 </div>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">Repositories</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/neko941/Distributed-System-Exercise" title="Distributed System Exercise"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=neko941&repo=Distributed-System-Exercise&theme=react&border_color=61dafb&border_radius=10"></a>
