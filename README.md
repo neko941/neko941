@@ -48,14 +48,20 @@
 <span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
-<br>
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
+
 <br>
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorFlow&logoColor=FF6F00" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Pytorch-282C34?logo=pytorch&logoColor=EE4C2C" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Pandas-282C34?logo=pandas&logoColor=150458" alt="TensorFlow logo" title="TensorFlow" height="25" /></span>
+&nbsp;
+
+<br>
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
 <br>
 
