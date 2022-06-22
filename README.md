@@ -22,7 +22,7 @@
     
   <br>
   <a href="#" title="neko941">
-    <img height="192px" src='http://github-readme-streak-stats.herokuapp.com?user=neko941&theme=tokyonight&date_format=%5BY.%5Dn.j'>
+    <img height="192px" src='http://github-readme-streak-stats.herokuapp.com?user=neko941&theme=tokyonight'>
   </a>
     
   <br>
