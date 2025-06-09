@@ -87,7 +87,6 @@
 <h2 align="center">Repositories</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/neko941/Distributed-System-Exercise" title="Distributed System Exercise"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=neko941&repo=Distributed-System-Exercise&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/neko941/UAS_JavaOOP_WS2122_G9" title="Calender"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=neko941&repo=UAS_JavaOOP_WS2122_G9&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/neko941/FedProC" title="FedProC"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=neko941&repo=FedProC&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
