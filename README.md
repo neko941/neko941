@@ -81,7 +81,7 @@
 <h2 align="center">Quotes</h2>
 <br>
 <div align='center'>
-  <img src='https://github-readme-quotes.herokuapp.com/quote?theme=merko&animation=grow_out_in&layout=default&font=Gabrielle'>
+  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark'>
 </div>
 
 <h2 align="center">Repositories</h2>
